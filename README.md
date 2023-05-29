@@ -41,8 +41,8 @@ The repository contains the following files and directories:
 ## Setup Instructions
 1. Clone the GitHub repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/eddiegulay/Sentiment-Classification.git
+   cd Sentiment-Classification
    ```
 2. Create Virtual Environment
 ```bash
